@@ -1,4 +1,4 @@
-#Futgol - reservas de canchas de futbol
+# Futgol - reservas de canchas de futbol
 
 #Página creada para NoCountry, junto a Santiago Toloza, desarrollador frontend.
 
