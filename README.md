@@ -1,6 +1,6 @@
 # Futgol - reservas de canchas de futbol
 
-#Página creada para NoCountry, junto a Santiago Toloza, desarrollador frontend.
+#Página creada para NoCountry, con REACT JS en colaboracion con Santiago Toloza.
 
 ## Deploy
 https://nocountrycancha.netlify.app/
